@@ -19,8 +19,7 @@ Description -->
 This is a simple calculator with basic arithmetic operations prompting the user to input two numbers and an operation choice to perform the calculation and display the result.
 *  The user first inputs two numbers of their choice.
 *  Then the user choses the type of arithmetic operation they want to perform.
-*  The result is then displayed and the system asks the user if they want to continue again.
-*  If the user continues the same program continues or else the program ends with a 'Thank You' note.
+*  The result is then displayed.
 
 Task 3 >>> Password Generator
 
